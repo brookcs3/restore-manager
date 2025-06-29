@@ -24,6 +24,14 @@ A powerful command-line tool to snapshot and restore the state of your local dir
     pip install xattr
     ```
 
+### From PyPI
+
+The easiest way to install `restore-manager` is directly from PyPI:
+
+```bash
+pip install restore-manager
+```
+
 ### Using the Setup Script (Recommended)
 
 1.  **Clone the repository:**
@@ -110,6 +118,23 @@ During restoration, the tool compares the current state of the directory with th
 
 Contributions are welcome! Please feel free to open issues or submit pull requests.
 
-## License
+## Licensing
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. (Note: You'll need to create a LICENSE file in your repository if you haven't already.)
+`restore-manager` is dual-licensed to provide flexibility for different use cases:
+
+### Open Source License (GPLv3)
+
+This software is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+For the full text of the GPLv3, please see the [LICENSE.GPL](LICENSE.GPL) file in this repository.
+
+### Commercial License
+
+For those who wish to use `restore-manager` in a proprietary application or do not wish to comply with the terms of the GPLv3, a commercial license is available. This allows you to integrate `restore-manager` into your closed-source projects without being subject to the GPL's copyleft requirements.
+
+Please contact [Your Name/Company Name] at [your.email@example.com] for commercial licensing inquiries and terms.
+
