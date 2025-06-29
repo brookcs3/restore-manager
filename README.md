@@ -1,5 +1,7 @@
 # Restore Manager
 
+[![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=brookcs3.restore-manager)]()
+
 A powerful command-line tool to snapshot and restore the state of your local directories.
 
 `restore-manager` helps you protect your work from accidental changes, renames, moves, or deletions by creating intelligent snapshots of your files and their unique identifiers. It can then perfectly restore your directory to a previous state.
