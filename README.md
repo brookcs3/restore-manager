@@ -1,6 +1,6 @@
 # Restore Manager
 
-[![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=brookcs3.restore-manager)]()
+![visitors](https://visitor-badge.glitch.me/badge?page_id=brookcs3.restore-manager&left_color=green&right_color=red)
 
 A powerful command-line tool to snapshot and restore the state of your local directories.
 
