@@ -1,0 +1,2 @@
+# Ignore restore-manager snapshot files
+.restore-*.md
